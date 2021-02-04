@@ -1,0 +1,48 @@
+.card{
+    background: #331F41;
+    border: 3px solid #969393;
+    border-radius: 2px;
+    width: 265px;
+    height: 273px;
+    padding: 32px 22px;
+    position: relative;
+}
+.img{
+    text-align: center;
+    text-align: -webkit-center;
+}
+.container{
+    text-decoration: none;
+}
+.title{
+    font-size: 18px;
+    font-weight: 700;
+    text-transform: uppercase;
+    font-family: Montserrat;
+    color: white;
+    line-height: 21.94px;
+    margin-bottom: 0px;
+    text-align: left;
+}
+.description{
+    line-height: 17.07px;
+    font-size: 14px;
+    font-family: Montserrat;
+    max-width: 192px;
+    color: #C4C4C4;
+    text-align: left;
+    margin-left: -23px;
+}
+
+.icon{
+    position: absolute;
+    right: 10px;
+    bottom: 10px;
+    cursor: pointer;
+}
+li{
+    float: left;
+}
+
+
+
